@@ -1,3 +1,3 @@
 # Soohyunjik
 
-CSS so much better!
+HTML is so much fun
